@@ -1,0 +1,21 @@
+
+# 한국감정원_전국주택가격동향조사_아파트_매매가격지수(2020.09).xlsx
+
+한국감정원 -> R-ONE -> 부동산통계뷰어 ->
+https://www.r-one.co.kr/rone/resis/statistics/statisticsViewer.do
+
+전국주택가격동향조사 -> 월간동향 -> 아파트 -> 매매가격지수 -> 매매가격지수
+
+
+# 한국감정원_공동주택실거래가격지수_아파트_지역별매매(2020.07).xlsx
+
+한국감정원 -> R-ONE -> 부동산통계뷰어 ->
+https://www.r-one.co.kr/rone/resis/statistics/statisticsViewer.do
+
+공동주택실거래가격지수 -> 아파트 -> 지역별매매(월별)
+
+
+# ★(월간)KB주택가격동향_시계열(2020.09).xlsx
+
+https://onland.kbstar.com/quics?page=okbland&QSL=F
+뉴스/자료실 -> 월간 KB주택가격동향 -> ★시계열 자료 2020년 9월 기준 (1986년 1월 부터)

@@ -1,4 +1,4 @@
-# tradeIndex
+# TradeIndex
 
 안녕하세요 AlphaRealTV 입니다.
 
